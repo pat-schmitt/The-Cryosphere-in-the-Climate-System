@@ -5,5 +5,6 @@ To start working click on the button below
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/pat-schmitt/The-Cryosphere-in-the-Climate-System%26amp%3Bbranch=main%26amp%3Burlpath=lab/tree/The-Cryosphere-in-the-Climate-System/exercises/welcome_notebook.ipynb%3Fautodecode)
 
-or copy the link: 
+or copy the link:
+
 https://mybinder.org/v2/gh/OGGM/binder/master?urlpath=git-pull?repo=https://github.com/pat-schmitt/The-Cryosphere-in-the-Climate-System%26amp%3Bbranch=main%26amp%3Burlpath=lab/tree/The-Cryosphere-in-the-Climate-System/exercises/welcome_notebook.ipynb%3Fautodecode
